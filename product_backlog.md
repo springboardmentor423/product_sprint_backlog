@@ -1,6 +1,6 @@
 Here is the product backlog for the **Library Management System** in Markdown format:
 
-```markdown
+
 # Product Backlog for Library Management System
 
 ## 1. User Management
@@ -113,6 +113,3 @@ Here is the product backlog for the **Library Management System** in Markdown fo
   - Show alerts for overdue books and low stock.
   - Manage system settings (book categories, fees).
   - View and approve user registrations.
-```
-
-This Markdown format is ideal for use in documentation, project management tools (e.g., JIRA, GitHub), or collaborative project boards.
